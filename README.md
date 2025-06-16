@@ -21,5 +21,6 @@ Airbnb Statistics • Over 4 million listings worldwide • 150 million users in
 ![Dashboard Screenshot](KPI.png)
 
 ## <img src="https://github.com/antik720720/Airbnb-Listings-Analysis/raw/main/Insight_logo.png" width="30" style="vertical-align: middle;" /> Insights 
+![Dashboard Screenshot](Insight.png)
 
 
