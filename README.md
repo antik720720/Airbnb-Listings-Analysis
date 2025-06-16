@@ -13,7 +13,8 @@ Airbnb Statistics • Over 4 million listings worldwide • 150 million users in
 📊 Download the Power BI File.
 
 📈 Dashboard Preview
-![Dashboard Screenshot](images/Airbnb_listings.png)
+![Dashboard Screenshot](dashboard.png)
+
 
 📌 Key Performance Indicators (KPIs)
 
