@@ -13,6 +13,9 @@ Airbnb Statistics • Over 4 million listings worldwide • 150 million users in
 ## <img src="https://github.com/antik720720/Airbnb-Listings-Analysis/raw/main/business.png" width="30" style="vertical-align: middle;" /> Business Objectives
 ![Dashboard Screenshot](Insight.png)
 
+## <img src="https://github.com/antik720720/Airbnb-Listings-Analysis/raw/main/EDA_1.png" width="30" style="vertical-align: middle;" /> Analysis Areas
+![Dashboard Screenshot](Insight.png)
+
 📊 Download the Power BI File.
 [Download Airbnb.pbix](https://github.com/antik720720/Airbnb-Listings-Analysis/raw/main/Airbnb.pbix)
 
