@@ -11,7 +11,7 @@ Airbnb, a prominent online platform, enables individuals to reserve accommodatio
 Airbnb Statistics • Over 4 million listings worldwide • 150 million users in 191 countries • Worldwide value is $32 billion • Global growth rate since 2009 - 153%
 
 📊 Download the Power BI File.
-[Download Airbnb.pbix](https://github.com/antik720720/Airbnb-Listings-Analysis/blob/main/Airbnb.pbix)
+[Download Airbnb.pbix](https://github.com/antik720720/Airbnb-Listings-Analysis/raw/main/Airbnb.pbix)
 
 📈 Dashboard Preview
 ![Dashboard Screenshot](Airbnb_listings.png)
